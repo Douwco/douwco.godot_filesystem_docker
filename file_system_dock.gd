@@ -1,7 +1,7 @@
 @tool
 extends EditorPlugin
 
-const PluginName := "filesystem_bottom_panel"
+const PluginName := "FileSystemBottomPanel"
 
 const FirstPlaceButton := true
 
